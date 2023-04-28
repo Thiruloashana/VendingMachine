@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1655744264 source:f:\shamyuktha\c++sem 2 pack\vendingmachine_win32\main.cpp
+	<tchar.h>
+	<windows.h>
+	"header.h"
+
+1655738088 source:f:\shamyuktha\c++sem 2 pack\vendingmachine_win32\source.cpp
+	"header.h"
+
+1655744174 f:\shamyuktha\c++sem 2 pack\vendingmachine_win32\header.h
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+	<string.h>
+	<sstream>
+	<stdlib.h>
+
+1655775530 source:c:\users\thiru\onedrive\desktop\vendingmachine21_win32\main.cpp
+	<tchar.h>
+	<windows.h>
+	"header.h"
+
+1655772401 c:\users\thiru\onedrive\desktop\vendingmachine21_win32\header.h
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+	<string.h>
+	<sstream>
+	<stdlib.h>
+
+1655771414 source:c:\users\thiru\onedrive\desktop\vendingmachine21_win32\source.cpp
+	"header.h"
+
+1663592137 source:c:\users\thiru\onedrive\pictures\vendingmachinee21_win32\vendingmachine21_win32\main.cpp
+	<tchar.h>
+	<windows.h>
+	"header.h"
+
+1655772401 c:\users\thiru\onedrive\pictures\vendingmachinee21_win32\vendingmachine21_win32\header.h
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+	<string.h>
+	<sstream>
+	<stdlib.h>
+
+1655771414 source:c:\users\thiru\onedrive\pictures\vendingmachinee21_win32\vendingmachine21_win32\source.cpp
+	"header.h"
+
